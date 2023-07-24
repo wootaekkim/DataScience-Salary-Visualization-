@@ -22,8 +22,8 @@ Columns that I made alteration include experience_level, employment_type, employ
 Other than data manipulation, some exploration of data is also included in **2023 data science salary data manipulation for tableau.ipynb** file incuded above. data exploration includes checking missing values, categorizing columns into qualitative and quantitative variables, data type of each columns, and checking total number of data.  
 
 ### Data Visualization using Tableau
-Dashboard was created using tableau. This consists of four Dashboards; Position title and Job Category, By Remote Ratio, By Experience Level, and Overall Trend.<br />
-Here is the link to the data visualization using Tableau [Tableau dashboard]([url](https://public.tableau.com/views/SummaryofDataScienceSalary/TrendofAvg_Salary?:language=en-US&:display_count=n&:origin=viz_share_link))
+Dashboard was created using tableau. This consists of four Dashboards; Position title and Job Category, By Remote Ratio, By Experience Level, and Overall Trend. Below it the link to the dashboard <br />
+[Tableau dashboard](https://public.tableau.com/views/SummaryofDataScienceSalary/TrendofAvg_Salary?:language=en-US&:display_count=n&:origin=viz_share_link) 
 <br />
 **Position title and Job Category**<br />
 This dashboard maninly shows how many samples were in each Job category (Analyst, Data Scientist, Data engineer, Developer/Researcher). <br />
