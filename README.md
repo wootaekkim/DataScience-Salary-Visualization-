@@ -33,10 +33,10 @@ Furthermore, this also shows which position title was categorized in which categ
 Here, dashboards mainly shows how salary changes by each would remote ratio would affect salary for each job category. <br />
 I also have included pie chart showing proportion of each remote ratio out of total data. Assuming that this is randomly sampled, this show how much of total positions are remote( remote ratio =100), hybrid(remote ratio = 50), and on-site(remote ratio = 0). Company size and year filter has been added to thid dashboard so that people can explore for different company sizes and each year. <br/>
 <br />
-**By Experience Level**
+**By Experience Level**<br />
 This dashboard shows how salary changes by eperience level. Here we can see how average salary foe each experience level changes over the years, average salary for each job category at each experience level, and proportion of each experience level in each job category. In terms of pie chart, size of each pie chart show sample size with each job category. Job category and compnay size filters were added for further exploration and closer look for different company size and each job category. <br />
 <br />
-**Overall Trend**
+**Overall Trend**<br />
 Here I tried to show overall average data science salary. I have show trend of average salary for each job category over the years and overall average salary of each job category. Moreover, average datascience salary in different countries and table showing average salary under various factors (company size, contract, job category, experience level) are included for closer look of the data. For map and table, job category filter is added so that people can explore average salary for different job category.<br />
 <br />
 
