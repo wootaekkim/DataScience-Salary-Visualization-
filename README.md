@@ -39,7 +39,7 @@ For data visualization, I created an interactive dashboard using Tableau, compri
 - Filters for company size and year allow users to explore the data for different company sizes and across different years.<br />
 <br />
 **By Experience Level** <br />
--  section presents how salary varies based on experience level.<br />
+- section presents how salary varies based on experience level.<br />
 - Users can observe the average salary for each experience level over the years, average salary for each job category at different experience levels, and the proportion of each experience level within each job category.<br />
 - Pie charts show the sample size for each job category, offering insights into the data distribution.<br />
 - Filters for job category and company size facilitate closer examination of salary trends for specific job categories and company sizes.<br />
