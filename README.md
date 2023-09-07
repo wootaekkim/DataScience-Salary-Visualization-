@@ -47,6 +47,6 @@ For data visualization, I created an interactive dashboard using Tableau, compri
 The visualization includes average data science salaries across different countries, and a table presenting average salaries based on various factors such as company size, contract type, job category, and experience level.<br />
 - A job category filter allows users to focus on the salary trends for different job categories.<br />
 
-To access and interact with the full Tableau dashboard, please click on the provided [Tableau Dashboard Link](https://public.tableau.com/views/SummaryofDataScienceSalary/TrendofAvg_Salary?:language=en-US&:display_count=n&:origin=viz_share_link) <br />
+To access and interact with the full Tableau dashboard, please click on the provided [Tableau Dashboard Link]([https://public.tableau.com/views/SummaryofDataScienceSalary/TrendofAvg_Salary?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/DataSciencJobsSalarySummary/DataScienceJobsSalarySummary?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)) <br />
 <br />
 This comprehensive dashboard offers a detailed and user-friendly way to understand and analyze the data science salary dataset, enabling users to explore salary trends, job categories, experience levels, remote work ratios, and other relevant factors that impact salaries within the data science field.
