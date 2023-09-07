@@ -29,23 +29,27 @@ Before proceeding with data visualization, I conducted data exploration in the "
 ### Data Visualization using Tableau
 For data visualization, I created an interactive dashboard using Tableau, comprising four main sections Click below to go to the dashboard in Tableau Public. <br />
 <br />
-#### Position title and Job Category
+#### Job Category in the Data
 - This section displays the distribution of samples across various job categories (Analyst, Data Scientist, Data Engineer, Developer/Researcher).<br />
 - It also shows the categorization of position titles within each job category and the number of samples for each position title.<br />
-#### By Remote Ratio
-- This section illustrates how salary is affected by different remote work ratios for each job category.<br />
+#### Avg. Salary by Job Category and Country
+- This section presents the average salary for all data science jobs in the dataset, as well as the average salary for each specific job category.<br />
+- Additionally, it provides a visual representation of how the average salary for data science jobs has evolved over the years.<br />
+- Users can delve into country-specific data by clicking on individual countries on the map. This action reveals the average salary for data science jobs in that country, along with the average salary for each job category within that country.<br />
+#### Remote Ratio and Salary
+- This section illustrates how average salary is affected by different remote work ratios for each job category.<br />
 - Additionally, a pie chart provides the proportion of each remote work ratio in the total dataset, indicating the prevalence of remote, hybrid, and on-site positions.<br />
 - Filters for company size and year allow users to explore the data for different company sizes and across different years.<br />
-#### By Experience Level
-- section presents how salary varies based on experience level.<br />
-- Users can observe the average salary for each experience level over the years, average salary for each job category at different experience levels, and the proportion of each experience level within each job category.<br />
-- Pie charts show the sample size for each job category, offering insights into the data distribution.<br />
-- Filters for job category and company size facilitate closer examination of salary trends for specific job categories and company sizes.<br />
-#### Overall Trend
-- Here, I showcase the overall average data science salary trends.<br />
-- Users can explore the trend of average salary for each job category over the years, as well as the overall average salary for each job category.
-The visualization includes average data science salaries across different countries, and a table presenting average salaries based on various factors such as company size, contract type, job category, and experience level.<br />
-- A job category filter allows users to focus on the salary trends for different job categories.<br />
+#### Experience Level and Salary
+- This section explores salary variations based on experience levels.<br />
+- By clicking on points within the line chart, users can compare average salaries among different job categories within the same experience level.<br />
+- This interaction also provides insight into the percentage of each job category relative to the total number of positions within each experience level in our dataset.<br />
+- For a more in-depth analysis of salary trends within specific job categories, users can utilize the job category filter to narrow their focus.<br />
+#### Company Size and Salary
+- This section presents how salary varies based on company size.<br />
+- On the top left, a pie chart illustrates the proportion of job positions from various company sizes compared to the total number of positions in our dataset.<br />
+- On the right, a bar chart displays the percentage of job positions for each category relative to the total number of positions in different company size categories within our dataset.<br />
+- To delve deeper into salary trends for specific job categories and years, users can utilize filters for job category and work year, enabling more focused exploration.<br />
 
 To access and interact with the full Tableau dashboard, please click on the provided [Tableau Dashboard Link](https://public.tableau.com/views/DataSciencJobsSalarySummary/DataScienceJobsSalarySummary?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) <br />
 <br />
